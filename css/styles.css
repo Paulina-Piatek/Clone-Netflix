@@ -175,7 +175,7 @@ img {
 }
 /* Container */
 .container_t {
-  max-width: 90%;
+  max-width: 70%;
   margin: auto;
   overflow: hidden;
   padding: 0;
@@ -440,6 +440,10 @@ img {
     text-transform: uppercase;
     padding: 0.2rem 0.8rem 0.2rem 0.8rem;
     font-size: 0.8rem;
+  }
+  /* Container */
+  .container_t {
+    max-width: 90%;
   }
 }
 
